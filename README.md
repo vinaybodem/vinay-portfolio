@@ -1,73 +1,47 @@
-# Welcome to your Lovable project
 
-## Project info
+# 🌟 Bodem Vinay – Personal Portfolio
 
-**URL**: https://lovable.dev/projects/972e3c17-5b63-42c5-873c-5dbf5592af99
+This is my personal portfolio built using modern web technologies. It showcases my projects, skills, and background as a software developer and AI enthusiast.
 
-## How can I edit this code?
+## 📍 Live URL  
+[https://vinaybodem.github.io/vinay-portfolio](https://vinaybodem.github.io/vinay-portfolio)
 
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/972e3c17-5b63-42c5-873c-5dbf5592af99) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
+## 🛠️ Technologies Used
 - React
-- shadcn-ui
+- TypeScript
+- Vite
 - Tailwind CSS
 
-## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/972e3c17-5b63-42c5-873c-5dbf5592af99) and click on Share -> Publish.
+## 🚀 Getting Started Locally
 
-## Can I connect a custom domain to my Lovable project?
+To run this project locally:
 
-Yes, you can!
+```bash
+# 1. Clone the repository
+git clone https://github.com/vinaybodem/vinay-portfolio.git
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+# 2. Navigate into the project folder
+cd vinay-portfolio
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
+````
+
+## 👨‍💻 About Me
+
+Hi, I'm **Bodem Vinay**, a passionate software developer with an interest in building user-focused and scalable web applications. I’m continuously learning and exploring the fields of AI and full-stack development.
+
+## 📬 Contact
+
+* 📧 Email: [bodemvinay@gmail.com](mailto:bodemvinay@gmail.com)
+* 🔗 GitHub: [@vinaybodem](https://github.com/vinaybodem)
+* 🔗 LinkedIn: [linkedin.com/in/bodem-vinay-a4861a258](https://linkedin.com/in/bodem-vinay-a4861a258)
+
+```
+
+Let me know if you'd like to add a **screenshot, deploy badge, dark mode toggle info**, or anything else.
+```
