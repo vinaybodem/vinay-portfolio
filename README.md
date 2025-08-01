@@ -43,5 +43,3 @@ Hi, I'm **Bodem Vinay**, a passionate software developer with an interest in bui
 
 ```
 
-Let me know if you'd like to add a **screenshot, deploy badge, dark mode toggle info**, or anything else.
-```
